@@ -68,7 +68,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔊 Bot Updates 🔊', url=f"{MT_BOT_UPDATES}"
+                                    '', url=f"{}"
                                 )
                         ]
                     ]
@@ -125,7 +125,7 @@ async def start(bot, update):
         InlineKeyboardButton('🗣️Group', url=f'{MT_GROUP}'),
         InlineKeyboardButton('Channel🔊', url=f'{MT_CHANNEL}')
     ],[
-        InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://youtu.be/OTqZmADyOjU')
+        InlineKeyboardButton('', url='')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
