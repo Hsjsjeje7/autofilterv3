@@ -8,13 +8,13 @@ class Translation(object):
 
 <b>I am a Pro AutoFilterBot V2....😜</b>
 
-<b>Make me an admin for your group and channel then connect me....🎉</b>
+<b>Iam work movie hut group 🥳</b>
 
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
+<b>My Developer @THIMAS_MOVIE_HUT</b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>⭕️ JOIN MOVIE HUT GROUP AND CHANNEL ⭕️</b>
 
-<b>Press /help to know about available commands🤪</b>"""    
+<b>😛</b>"""    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
