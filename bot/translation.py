@@ -5,15 +5,10 @@
 class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
-
 <b>I am a Pro AutoFilterBot V2....😜</b>
-
 <b>Iam work movie hut group 🥳</b>
-
 <b>My Developer @THIMAS_MOVIE_HUT</b>
-
-<b>⭕️ JOIN MOVIE HUT GROUP AND CHANNEL ⭕️</b>
-
+<b>⭕️JOIN MOVIE HUT GROUP AND CHANNEL⭕️</b>
 <b>😛</b>"""    
     
     HELP_TEXT = """
